@@ -169,7 +169,7 @@ while True:
     if config["save_video"]:
         writer.write(frame)
 
-    # 按下鍵盤 Esc，關閉影片
+    # 按下鍵盤 Esc 關閉影片
     if cv2.waitKey(1) == 27:
         break
 
