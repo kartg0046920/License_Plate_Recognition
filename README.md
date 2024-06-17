@@ -6,5 +6,5 @@
     4.計算追蹤車牌辨識結果的次數，若相同辨識結果次數達定值，做為儲存結果
     5.車牌資料、車牌照片和影片儲存
     6.實測結果請參考影片和圖片
-    ![A cool animation](https://github.com/kartg0046920/License_Plate_Recognition/blob/main/license_plate_detection.gif?raw=true)
+
     
