@@ -7,7 +7,8 @@
     5.車牌資料、車牌照片和影片儲存
     6.實測結果請參考影片和圖片
 
-    ![image_1](https://github.com/kartg0046920/License_Plate_Recognition/assets/65480821/7b5cb341-a8b3-4bc4-baea-6a6853740119)
+
+![image_1](https://github.com/kartg0046920/License_Plate_Recognition/assets/65480821/7b5cb341-a8b3-4bc4-baea-6a6853740119)
 
 
 
