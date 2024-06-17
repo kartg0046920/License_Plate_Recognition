@@ -9,7 +9,10 @@
 
 
 
-   
+
+
+   ![license_plate_detection](https://github.com/kartg0046920/License_Plate_Recognition/assets/65480821/2990b3e3-72d2-4105-87dc-03e4fa90812e)
+
 
 
 
